@@ -1,5 +1,6 @@
 {
   "recommendations": [
+    "amirha.better-comments-2",
     "bierner.github-markdown-preview",
     "davidanson.vscode-markdownlint",
     "esbenp.prettier-vscode",
